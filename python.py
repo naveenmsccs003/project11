@@ -1,3 +1,4 @@
-a = 90
+a = 30
 b = 18
-print(a+b)
+c=33
+print(a+b+c)
